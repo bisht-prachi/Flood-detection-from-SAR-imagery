@@ -1,8 +1,8 @@
-# 🌊 Flood Detection from SAR Imagery
+#  Flood Detection from SAR Imagery
 
 This repository contains my submission for the **NASA Earth Science and Technology Competition Initiative (ETCI) Flood Detection Challenge**, focused on detecting flood events using **Sentinel-1 Synthetic Aperture Radar (SAR)** imagery. The challenge is organized by the **NASA Interagency Implementation and Advanced Concepts Team (IMPACT)** and the **IEEE GRSS Earth Science Informatics Technical Committee**.
 
-## 🚀 Overview
+##  Overview
 
 The goal is to build a model that accurately detects flooded areas using SAR data, which is resilient to cloud cover and lighting conditions. This project builds upon the beginner walkthrough and starter notebook provided by [FloodBase](https://medium.com/cloud-to-street/jumpstart-your-machine-learning-satellite-competition-submission-2443b40d0a5a), with additional experimentation and enhancements.
 
@@ -24,8 +24,8 @@ IoU: 0.54
 
 
 Acknowledgements
-NASA IMPACT
+[NASA IMPACT](https://nasa-impact.github.io/etci2021/)
 
 IEEE GRSS ESI TC
 
-FloodBase beginner guide
+[FloodBase beginner guide](https://medium.com/cloud-to-street/jumpstart-your-machine-learning-satellite-competition-submission-2443b40d0a5a)
